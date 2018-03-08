@@ -1,4 +1,4 @@
-# build: python3 test_epoll.py --port=8877
+# build: python3 py_epoll_webserver.py --port=8877
 # test: curl 127.0.0.1:8877
 
 import socket
