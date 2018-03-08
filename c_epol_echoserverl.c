@@ -1,3 +1,6 @@
+// compile: gcc c_epol_echoserverl.c -o c_epol_echoserverl
+// run: ./c_epol_echoserverl
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <strings.h>
